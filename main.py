@@ -1,6 +1,8 @@
-print("hello world")
+print("hello world salom")
 
-a = 1
-b  = 2
-c = b + a
+
+d = 20
+a = 13
+b  = 21
+c = b + a + d
 print(c)
